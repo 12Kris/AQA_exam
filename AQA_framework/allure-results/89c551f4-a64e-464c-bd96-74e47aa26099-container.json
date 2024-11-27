@@ -1,0 +1,1 @@
+{"uuid":"89c551f4-a64e-464c-bd96-74e47aa26099","name":"aqa_course.ui.Test2.tearDown","children":["12abb965-fcec-4b36-91f0-9806c256607a"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732652229249,"stop":1732652229396}],"start":1732652229249,"stop":1732652229396}
