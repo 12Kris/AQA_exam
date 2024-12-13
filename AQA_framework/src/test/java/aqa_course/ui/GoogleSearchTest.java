@@ -9,7 +9,7 @@ public class GoogleSearchTest {
     public void testGoogleSearch() {
         GoogleBO googleBO = new GoogleBO();
 
-        googleBO.search("cakes");
-        Assert.assertTrue(googleBO.areResultsDisplayed(), "Search results are not displayed!");
+        googleBO.search("Auto ria");
+        Assert.assertTrue(googleBO.areResultsDisplayed(), "Results are not displayed");
     }
 }
